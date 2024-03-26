@@ -1,0 +1,120 @@
+#qrCode {
+    height: 20rem;
+    width: 20rem;
+    margin: 1rem;
+
+}
+.Qrurl {
+    width: 30%;
+}
+.Qronlycard{
+    display: flex;
+    width: 100%;
+    height: 21rem;
+    border: 1px solid black;
+    /* margin-left: 5%; */
+    background-color: white;
+}
+#qrdownloadbtn{
+    font-size: 1.50rem;
+    border-radius: 5px;
+    /* padding: 5px; */
+    width: 40px;
+    height: 40px;
+    /* margin-top: 10px; */
+    margin-left: 1rem;
+    float: left;
+    color: white;
+    background-color: #3543ff;
+    border: 0px;
+}
+#qrdownloadbtn:hover{
+    background-color: #3543ffe1;
+}
+.urlgroup{
+    display: flex;
+}
+.Qrurl{
+    border: 2px solid black;
+    margin-bottom: 20px;
+    width: 30rem;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 5px;
+    outline: none;
+    background: none;
+    padding: 10px;
+    color: black;
+}
+.qrdiv{
+    height: 15rem;
+    width: 15rem;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+.Qrform{
+    background-color: black;
+}
+.qrCard{
+    width: 100%;
+    /* margin: 2rem; */
+    background-color: rgb(245, 245, 245);
+    border: 0px solid black;
+    border-radius: 20px;
+    float: right;
+}
+.qrwrapper{
+    padding: 25px;
+}
+.title1{
+    font-size: 2.75rem;
+    color: #000000;
+    float: left;
+}
+.title2{
+    margin-top: 0px;
+    font-size: 14px;
+    text-align: center;
+    color: #3543ff;
+    opacity: 70%;
+    float: left;
+
+}
+.input2{
+    border: 1px solid black;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+    padding: 10px;
+    color: white;
+}
+#login{
+    font-size: 1.50rem;
+    border-radius: 5px;
+    padding: 5px;
+    padding-bottom: 10px;
+    width: 195px;
+    float: left;
+    color: white;
+    background-color: #3543ff;
+    border: 0px;
+}
+#login:hover{
+    background-color: #3543ffdb;
+}
+.loginlogo{
+    margin-left: 8px;
+    color: white;
+}
